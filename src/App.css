@@ -27,7 +27,7 @@
 
 #div2 img{
   width: 600px;
-  height: 570px;
+  height: 475px;
   z-index: 1;
   position: relative;
   left: 100px;
@@ -82,7 +82,7 @@ nav ul{
 
 
 #thirddiv{
-  height: 650px;
+  height: 550px;
   width: 720px;
   background-color:rgb(225, 11, 225);
   position: absolute;
@@ -90,5 +90,6 @@ nav ul{
   left: 800px;
   border-top-left-radius: 10000px;
   border-bottom-left-radius: 2000px;
+  
   
 }
